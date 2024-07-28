@@ -64,3 +64,4 @@ D:\CsharpTraining\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\refint\SimpleAPI
 D:\CsharpTraining\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.pdb
 D:\CsharpTraining\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.genruntimeconfig.cache
 D:\CsharpTraining\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\ref\SimpleAPI.dll
+D:\CsharpTraining\CICD\SimpleAPI\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.sourcelink.json

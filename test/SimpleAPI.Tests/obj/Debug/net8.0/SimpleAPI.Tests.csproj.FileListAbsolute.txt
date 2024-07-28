@@ -222,3 +222,4 @@ D:\CsharpTraining\CICD\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\net8.0\refint\Si
 D:\CsharpTraining\CICD\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\net8.0\SimpleAPI.Tests.pdb
 D:\CsharpTraining\CICD\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\net8.0\SimpleAPI.Tests.genruntimeconfig.cache
 D:\CsharpTraining\CICD\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\net8.0\ref\SimpleAPI.Tests.dll
+D:\CsharpTraining\CICD\SimpleAPI\test\SimpleAPI.Tests\obj\Debug\net8.0\SimpleAPI.Tests.sourcelink.json
