@@ -15,9 +15,9 @@ namespace SimpleAPI
        [HttpGet("item")]
         public IEnumerable<string> GetItem()
         {
-            return new string[] { "Amar", "Amar2","Amar3","Amar4","Amar4" };
+            return new string[] { "Amar","Amar1", "Amar2","Amar3","Amar4","Amar5" };
         }
-//commented on 2807 3
+//commented on 2807 4
         // GET: api/values/5
          [HttpGet("getlist")]
         public string GetName(int id)
